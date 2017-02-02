@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zendframework/zend-cache": "^2.7"
+    }
+}
